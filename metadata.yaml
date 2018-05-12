@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/963
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45818#The-House-on-the-Moor-v.-3-3
 gutenberg_issued: '2014-05-29'
 gutenberg_type: Text
 identifiers:
